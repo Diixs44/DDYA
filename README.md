@@ -1,6 +1,6 @@
 # DDYA - Portafolio de trabajos
 
-Repositorio academico de **Diseno de Datos y Algoritmos (DDYA)** con los trabajos, laboratorios y presentaciones organizados por semanas.
+Repositorio academico de **Diseño de Datos y Algoritmos (DDYA)** con los trabajos, laboratorios y presentaciones organizados por semanas.
 
 El contenido de este indice corresponde a los archivos versionados en la rama `Semana-8`.
 
@@ -15,7 +15,7 @@ El contenido de este indice corresponde a los archivos versionados en la rama `S
 | Semana 7 | Sistema de atencion de una tienda usando **cola FIFO**, **pila LIFO** y **lista doblemente enlazada**. | [`Laboratorio_de_estructuras_lineales.ipynb`](./Semana_7/Laboratorio_de_estructuras_lineales.ipynb)<br>[`Laboratorio_Estructuras_Lineales.pptx`](./Semana_7/Laboratorio_Estructuras_Lineales.pptx) |
 | Semana 8 | Organizacion de codigos de productos mediante **arbol BST** y **arbol AVL**, recorridos y visualizacion grafica. | [`Arboles-binarios (Extasys code).ipynb`](./Semana_8/Arboles-binarios%20(Extasys%20code).ipynb)<br>[`Presentación arboles binarios.pptx`](./Semana_8/Presentación%20arboles%20binarios.pptx) |
 
-## Trabajo adicional versionado
+## Parcial Primer Corte
 
 | Carpeta | Trabajo / tema identificado | Archivo |
 |---|---|---|
@@ -60,7 +60,4 @@ El contenido de este indice corresponde a los archivos versionados en la rama `S
 - Santiago Lugo
 - Simon Mateo Barrios
 
-## Notas
 
-- En esta rama no hay carpetas versionadas para Semana 5 ni Semana 6.
-- No se encontro un archivo de licencia en el repositorio.
