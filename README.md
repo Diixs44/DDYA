@@ -22,6 +22,12 @@ El contenido de este indice corresponde a los archivos versionados en la rama `S
 |---|---|---|
 | `dev-pr-dynamic` | Calculo del crecimiento de nuevos suscriptores mediante recurrencia tipo Fibonacci y memoizacion. | [`app_suscriptores.ipynb`](./dev-pr-dynamic/app_suscriptores.ipynb) |
 
+## Parcial Segundo Corte
+
+| Carpeta | Trabajo / tema identificado | Archivo |
+|---|---|---|
+| `Parcial-Practico-T2` | Sistema de transporte con grafos, BFS y DFS | [`Parcial-practico-T2.ipynb`](./Parcial-Practico-T2/Parcial_practico_T2.ipynb) |
+
 ## Estructura general
 
 ```text
