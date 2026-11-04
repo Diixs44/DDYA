@@ -15,6 +15,7 @@ El contenido de este indice corresponde a los archivos versionados en la rama `S
 | Semana 7 | Sistema de atencion de una tienda usando **cola FIFO**, **pila LIFO** y **lista doblemente enlazada**. | [`Laboratorio_de_estructuras_lineales.ipynb`](./Semana_7/Laboratorio_de_estructuras_lineales.ipynb)<br>[`Laboratorio_Estructuras_Lineales.pptx`](./Semana_7/Laboratorio_Estructuras_Lineales.pptx) |
 | Semana 8 | Organizacion de codigos de productos mediante **arbol BST** y **arbol AVL**, recorridos y visualizacion grafica. | [`Arboles-binarios (Extasys code).ipynb`](./Semana_8/Arboles-binarios%20(Extasys%20code).ipynb)<br>[`Presentación arboles binarios.pptx`](./Semana_8/Presentación%20arboles%20binarios.pptx) |
 | Semana 9 | Portafolio académico de algoritmos y estructuras de datos implementados en Python mediante talleres prácticos. | [`Grafos.ipynb`](./Semana_9/Grafos.ipynb) |
+| Semana 13 | Laboratorio Tabla Hash } | [`Laboratorio Tabla Hash Extasys Code.ipynb`](./Semana_13/Laboratorio-Tabla-Hash-Extasys-Code.ipynb) |
 
 ## Parcial Primer Corte
 
